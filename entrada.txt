@@ -1,0 +1,3 @@
+camisa; 25; 2.2
+pantalon; 12; 5.3
+falda; 16; 8.4
